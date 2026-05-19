@@ -1,0 +1,8 @@
+echo "data/
+models/
+.gradio/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+.env" > .gitignore
