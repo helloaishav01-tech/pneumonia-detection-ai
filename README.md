@@ -30,6 +30,8 @@ This project prioritizes **Recall** over raw accuracy: the model is tuned to be 
 
 ---
 
+![App Demo](demo.png)
+
 ## 🧠 How It Works
 
 ```
